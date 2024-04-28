@@ -1,0 +1,1 @@
+Spark is a platform for cluster computing allowing us to spread data and computations over clusters with multiple nodes (think of each node as a separate computer), both data processing and computation are performed in parallel over the nodes in the cluster.
