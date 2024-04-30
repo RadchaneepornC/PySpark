@@ -48,3 +48,7 @@
 # Machine Learning with PySpark
 
 # Building Recommendation Engines with PySpark
+
+# Other resource
+
+- [PySpark vs Pandas: A Comprehensive Guide to Data Processing Tools](https://www.linkedin.com/pulse/pyspark-vs-pandas-comprehensive-guide-data-processing-deepak-lakhotia-hpfgc/)
