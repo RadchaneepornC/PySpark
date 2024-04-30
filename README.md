@@ -176,3 +176,5 @@ not in the ```SparkSession catalog```. This means that we can use all the Spark 
 # Other resource
 
 - [PySpark vs Pandas: A Comprehensive Guide to Data Processing Tools](https://www.linkedin.com/pulse/pyspark-vs-pandas-comprehensive-guide-data-processing-deepak-lakhotia-hpfgc/)
+- [PySpark RDD Cheat Sheet](https://images.datacamp.com/image/upload/v1676303379/Marketing/Blog/PySpark_RDD_Cheat_Sheet.pdf)
+- [PySpark SQL Basics Cheat Sheet](https://images.datacamp.com/image/upload/v1676302905/Marketing/Blog/PySpark_SQL_Cheat_Sheet.pdf)
