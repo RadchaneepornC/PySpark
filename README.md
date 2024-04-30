@@ -85,7 +85,7 @@ flights10.show()
 
 ```
 - below is the returned Spark DataFrame
-
+![alt text](image/SparkDataFrame.png)
 
 
 
@@ -112,6 +112,17 @@ print(pd_counts.head())
 ```
 
 - below is the returned Pandas DataFrame
+
+![Alt text](image/PandasDataFRame.png)
+
+
+## Change from Pandas DataFrame to Spark DataFrame and store it locally
+
+use ```.createDataFrame()``` method to change Pandas DataFrame to Spark DataFrame, but the output of this method is stored locally,
+not in the ```SparkSession catalog```. This means that we can use all the Spark DataFrame methods on it, but you can't access the data in other contexts, for example, using ```.sql()``` method throw an error, to access the data in this way, we have to save it as a ```temporary table```
+
+
+
 
 
 
